@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from app_refactored import enrich_dateDuration
+from python_app.app_refactored import enrich_dateDuration
 
 class TestEnrichment(unittest.TestCase):
 
