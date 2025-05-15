@@ -126,4 +126,4 @@ if __name__ == '__main__':
         server = 'localhost', 
         database = 'DE5_Module5'
     )
-    print('**************** End ****************')
+    print('**************** The End ****************')
