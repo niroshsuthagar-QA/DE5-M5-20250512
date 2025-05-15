@@ -109,7 +109,7 @@ if __name__ == '__main__':
     data2 = naCleaner(data2)
 
     print(data2)
-    print('**************** DATA CLEANED ****************')
+    print('**************** DATA CLEANING FINISHED ****************')
 
     print('Writing to SQL Server...')
 
